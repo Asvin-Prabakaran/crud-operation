@@ -1,0 +1,18 @@
+.adduserbox
+{
+  border: 2px solid rgb(255, 255, 255,0.4);
+  padding:20px;
+  
+}
+
+.editbox {
+  padding: 20px;
+  border: 2px solid  rgb(255, 255, 255,0.4);
+  
+}
+  
+body {
+  background-image: url('https://img.freepik.com/free-photo/vestrahorn-mountains-stokksnes-iceland_335224-667.jpg?t=st=1713792351~exp=1713795951~hmac=2fa8f86df84cc18b134376d7195061c4a38e16c53da1d15a98d1310e396df0a5&w=1060');
+
+}
+  
